@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">qml/main.qml</file>
+        <file alias="Presen.qml">qml/Presen.qml</file>
+        <file alias="content/background/BackgroundSwirls.qml">qml/content/background/BackgroundSwirls.qml</file>
+        <file alias="content/background/Swirl.qml">qml/content/background/Swirl.qml</file>
+        <file alias="content/SliderFrame.qml">qml/content/SliderFrame.qml</file>
+        <file alias="content/CodeSection.qml">qml/content/CodeSection.qml</file>
+        <file alias="../../../res/particle.png">res/particle.png</file>
+        <file alias="../res/profile_pic.png">res/profile_pic.png</file>
+        <file alias="../res/raspi-pre.png">res/raspi-pre.png</file>
+        <file alias="../res/qml-presen-site.png">res/qml-presen-site.png</file>
+        <file alias="../res/qt-creator_project.png">res/qt-creator_project.png</file>
+        <file alias="../res/raspberry_misoni.png">res/raspberry_misoni.png</file>
+    </qresource>
+</RCC>
